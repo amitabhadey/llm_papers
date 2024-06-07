@@ -2,6 +2,8 @@
 
 This project showcases key papers in the field of Large Language Models (LLMs) using a simple web app built with Streamlit. The web app allows users to search and filter papers by title, author, summary, and publication year.
 
+[View demo](https://llmpapers.streamlit.app/)
+
 ## Files Included
 - `papers.csv`: A CSV file containing the details of the foundational papers, including title, authors, summary, link, and year of publication.
 - `papers.py`: The Streamlit application code to display and search through the papers.
